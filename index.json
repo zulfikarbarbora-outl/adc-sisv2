@@ -1,0 +1,4136 @@
+{
+  "fileCount": 413,
+  "files": [
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-3-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-1-d6.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-1-cs5.opus",
+      "note": 73,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-2-cs5.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-d5-1-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-3-f5.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-1-f5.opus",
+      "note": 77,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-1-gs5.opus",
+      "note": 80,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-2-gs5.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-1-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-1-c6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-2-c6.opus",
+      "note": 84,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-1-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b6-2-b6.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c7-1-c7.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 100,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-3-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-1-d6.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-1-cs5.opus",
+      "note": 73,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-2-cs5.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-d5-1-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-3-f5.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-1-f5.opus",
+      "note": 77,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-1-gs5.opus",
+      "note": 80,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-2-gs5.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-1-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-1-c6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-2-c6.opus",
+      "note": 84,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-1-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b6-2-b6.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c7-1-c7.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 100,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-3-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-1-d6.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-1-cs5.opus",
+      "note": 73,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-2-cs5.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-d5-1-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-3-f5.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-1-f5.opus",
+      "note": 77,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-1-gs5.opus",
+      "note": 80,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-2-gs5.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-1-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-1-c6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-2-c6.opus",
+      "note": 84,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-1-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b6-2-b6.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c7-1-c7.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 100,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-2-a5.opus",
+      "note": 81,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-ao-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-e6-2-e6.opus",
+      "note": 88,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-1-a6.opus",
+      "note": 93,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a4-a6-2-a6.opus",
+      "note": 93,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-2-c4.opus",
+      "note": 60,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-co-c4-1-c4.opus",
+      "note": 60,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-2-g4.opus",
+      "note": 67,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-go-g4-1-g4.opus",
+      "note": 67,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-2-d5.opus",
+      "note": 74,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-do-d5-3-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns1-c3-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-1-g5.opus",
+      "note": 79,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g4-g5-2-g5.opus",
+      "note": 79,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-3-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns2-g3-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-1-d6.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-d6-3-d6.opus",
+      "note": 86,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-3-fs6.opus",
+      "note": 90,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns3-d4-fs6-4-fs6.opus",
+      "note": 90,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a5-cs7-2-cs7.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahmns4-a3-cs7-1-cs7.opus",
+      "note": 97,
+      "loNote": 98,
+      "hiNote": 100,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-1-cs5.opus",
+      "note": 73,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-cs5-2-cs5.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-d5-1-d5.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-1-e5.opus",
+      "note": 76,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e5-2-e5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-3-f5.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-f5-1-f5.opus",
+      "note": 77,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-1-gs5.opus",
+      "note": 80,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-gs5-2-gs5.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-a5-1-a5.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-2-b5.opus",
+      "note": 83,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b5-1-b5.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-1-c6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c6-2-c6.opus",
+      "note": 84,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-ds6-1-ds6.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-e6-1-e6.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-1-fs6.opus",
+      "note": 90,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-fs6-2-fs6.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-g6-1-g6.opus",
+      "note": 91,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-as6-2-as6.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-b6-2-b6.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlahma-c7-1-c7.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 100,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    }
+  ],
+  "generatedAt": "2026-07-28T06:06:31Z"
+}
